@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "778079734249",
+    "firebase_url": "https://covid-19-tracker-7b8d5.firebaseio.com",
+    "project_id": "covid-19-tracker-7b8d5",
+    "storage_bucket": "covid-19-tracker-7b8d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778079734249:android:b43e1b347002e8fcd2e378",
+        "android_client_info": {
+          "package_name": "com.ak.myCovid_19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778079734249-98prtclsqap7u3lqddj2t1lhkojmspfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL-Jw8gmbkbBvVGYQLH2XcBCv9WhYeVfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778079734249-98prtclsqap7u3lqddj2t1lhkojmspfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
